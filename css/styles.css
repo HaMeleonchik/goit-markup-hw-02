@@ -102,6 +102,7 @@ color: #ffffff;
 }
 
 /* principles */
+
 .core-principles-title{
     font-weight: 500;
     font-size: 20px;
@@ -124,7 +125,7 @@ color: #434455;
 }
 
 
-.team-h2{
+.team-centertext{
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -155,7 +156,7 @@ color: #2e2f42;
 }
 /* Our Portfolio */
 
-.portfolio-h2{
+.portfolio-centertext{
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
